@@ -427,6 +427,9 @@ input[type="password"], textarea {
 .col-six, .col-1-2 {
     width: 50%;
 }
+.col-six-alt{
+    width: inherit;
+}
 
 .col-seven {
     width: 58.33333%;
