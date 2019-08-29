@@ -1718,7 +1718,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 
 
 .parallax-slider{
-    top: -300px !important;
+    /* top: -300px !important; */
 }
 /* ===================================================================
  * # home - (_site-layout.scss)
