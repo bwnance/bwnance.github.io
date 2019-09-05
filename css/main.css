@@ -2378,9 +2378,12 @@ html.no-csstransitions .home-content__main {
     display: table;
     clear: both;
 }
-
+.masonryy{
+    display: flex;
+    justify-content: center;
+}
 .masonry .grid-sizer, .masonry__brick {
-    width: 400px;
+    width: 800px;
 }
 
 .masonry__brick {
@@ -2525,7 +2528,9 @@ html.no-csstransitions .home-content__main {
     color: #000000;
 }
 
-
+.subimage{
+    display: none;
+}
 /* on hover */
 
 .item-folio:hover .item-folio__thumb a::before {
